@@ -1,4 +1,5 @@
-# ✨ SocialSpark
+# ✨ SocialFlare
+
 
 **SocialSpark** is a query-driven platform designed to ignite your social media growth by providing AI-powered insights for instagram. The platform fetches detailed social media data, including engagement metrics, audience insights, and performance analytics, using advanced APIs. This data is securely stored in **DataStax Astra DB**, ensuring scalable and efficient data management.
 
@@ -119,6 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for their invaluable contributions
 
 ---
+
 
 ## Deployment
 
